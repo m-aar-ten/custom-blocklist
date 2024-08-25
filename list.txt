@@ -1,0 +1,2 @@
+discovery.meethue.com
+eic.api.lgtviot.com
