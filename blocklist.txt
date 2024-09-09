@@ -1,2 +1,8 @@
 discovery.meethue.com
 eic.api.lgtviot.com
+eic.lgtviot.com
+nl.lgeapi.com
+eic.service.lgtvcommon.com
+nl.rdx2.lgtvsdp.com
+eic-gfts.lge.com
+nl.lgtvsdp.com
